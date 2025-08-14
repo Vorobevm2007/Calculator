@@ -10,7 +10,7 @@
 
 ## Project issues:
 
-- 
+There is no cross-platform compatibility. I used "system("chcp 1251>nul");". Unfortunately, this only works on Windows. It won't start on another OS. In other projects, I will try to fix this error, but I will leave this one like this
 
 ## How can I run it on my computer?
 
